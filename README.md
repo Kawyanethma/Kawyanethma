@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kawyanethma</h1>
 <h3 align="center">A passionate Web developer and Computer Engineer</h3>
+
 <img align = "right" alt="coding" width="400" src="https://github.com/Kawyanethma/Kawyanethma/assets/92635894/ffcec93f-f889-414a-9b9a-7d49c4f0b172" >
+
 <p align="left"> <a href="https://twitter.com/kawyanethma" target="blank"><img src="https://img.shields.io/twitter/follow/kawyanethma?logo=twitter&style=for-the-badge" alt="kawyanethma" /></a> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/kawyanethma-walisundara-28827a223" target="blank"><img src="https://img.shields.io/twitter/follow/kawyanethma?logo=linkedin&style=for-the-badge" alt="kawyanethma" /></a> </p>
