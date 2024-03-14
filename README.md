@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kawyanethma</h1>
+
+![5557e6ff1f5a393d76dc75af6c39fd47](https://github.com/Kawyanethma/Kawyanethma/assets/92635894/04396b1b-ad92-4090-ae29-7a011aaf2c65)
+
 <h3 align="center">A passionate Web developer and Computer Engineer</h3>
 
 <img align="right" alt="coding" width="300" src="https://github.com/Kawyanethma/Kawyanethma/assets/92635894/15eacf09-59d7-4a1f-915c-a0440f8938e4" >
