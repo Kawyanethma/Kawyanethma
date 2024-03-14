@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kawyanethma</h1>
 <h3 align="center">A passionate Web developer and Computer Engineer</h3>
 
-<p align = "right" >
 <img alt="coding" width="300" src="https://github.com/Kawyanethma/Kawyanethma/assets/92635894/15eacf09-59d7-4a1f-915c-a0440f8938e4" >
-</p>
-
 
 - 🌱 I’m currently learning **C#, Python, Docker**
 
