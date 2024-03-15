@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kawyanethma</h1>
 <h3 align="center">Passionate Software Engineer 👨‍💻 | Web developer 🔨 | UI/UX Enthusiast 💻🎨</h3>
 <br>
+![l](https://github.com/Kawyanethma/Kawyanethma/assets/92635894/1c966a19-7bb5-4eb7-bfbc-7f5ba527ee4f)
 
-<img align="right" alt="coding" width="300" src="https://github.com/Kawyanethma/Kawyanethma/assets/92635894/421646b7-392f-49e2-9e18-9a56ab2ddb19" >
+<img align="right" alt="coding" width="300" src="https://github.com/Kawyanethma/Kawyanethma/assets/92635894/1c966a19-7bb5-4eb7-bfbc-7f5ba527ee4f" >
 
 - 🌱 I’m currently learning **C#, Python, Docker**
 
