@@ -4,9 +4,9 @@
 
 <img align="right" alt="coding" width="300" src="https://github.com/Kawyanethma/Kawyanethma/assets/92635894/1bec9c78-c6a2-4dff-8889-92353b3abae4" >
 
-- 🌱 I’m currently learning **C#, Python, Docker**
+- 🌱 I’m currently learning **AWS, Oracle, Docker and Angular**
 
-- 💬 Ask me about **Java, Flutter, C++**
+- 💬 Ask me about **Java, React, React Native and Next.js**
 
 - 📫 How to reach me **kawyanethma@gmail.com**
 
